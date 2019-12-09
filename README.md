@@ -24,8 +24,7 @@ yo ms
  * Feel free to [learn more about Yeoman](http://yeoman.io/).
 
 ## License
-
- © [TRANSPLACE\rsharma]()
+  MIT
 
 
 [npm-image]: https://badge.fury.io/js/generator-ms.svg
